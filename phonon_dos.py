@@ -1,7 +1,7 @@
 #!/usr/bin/python
 
 # This script is to change unit of omega(from Hatree to cm^-1) and sum contributions of each 4 atoms.
-# read output file of ABINIT anaddb utility, then plot phonon density of states.
+# read output file of ABINIT anaddb utility, then plot phonon density of states of II-IV-N_2 semiconductors.
 
 import numpy as np
 import math
